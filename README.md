@@ -1,4 +1,4 @@
-# Articles-extractor
+# jellysfish-detection
 
 ## Description:
 
