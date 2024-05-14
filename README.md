@@ -1,4 +1,4 @@
-# jellysfish-detection
+# fish-detection
 
 ## Description:
 
